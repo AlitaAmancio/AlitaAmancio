@@ -49,7 +49,10 @@
       <img src="https://img.shields.io/badge/LinkedIn-7289DA?style=for-the-badge&logo=linkedin&logoColor=white">
   <a href = "https://open.spotify.com/user/21kdp3pplp4toiepwfrrmw7gq?si=szlcB5EMRJmBD41Ibfv_lg">
       <img src="https://img.shields.io/badge/Spotify-EA4C89?&style=for-the-badge&logo=spotify&logoColor=white">
+  <a href = "https://instagram.com/alitinhasz?igshid=ZDc4ODBmNjlmNQ==">
+      <img src="https://img.shields.io/badge/Instagram-7289DA?style=for-the-badge&logo=instagram&logoColor=white">
 </div>
+    
 <!--
 **AlitaAmancio/AlitaAmancio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
