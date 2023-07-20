@@ -4,7 +4,7 @@
 
 > “My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style.” — Maya Angelou.
 
-**I am a black, trans and Brazilian woman. I love art, programming, cute things and weird things, but mostly things and people that are weird _and_ cute, like furbies or myself.**
+**I am a black, trans and Brazilian woman. I love art, programming, cute things and weird things, but mostly things and people that are cute _and_ weird, like furbies or myself.**
 
 - 🏳️‍⚧️ My pronouns are: **she/her**.
 - 🏫 I'm currently studying **"Análise e Desenvolvimento de Sistemas"** at [Fatec](http://fatecsjc-prd.azurewebsites.net/).
