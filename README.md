@@ -7,7 +7,7 @@
 **I am a black, trans and Brazilian woman. I love art, programming, cute things and weird things, but mostly things and people that are cute _and_ weird, like furbies or myself.**
 
 - 🏳️‍⚧️ My pronouns are: **she/her**.
-- 🏫 I'm currently studying **"Análise e Desenvolvimento de Sistemas"** at [Fatec](http://fatecsjc-prd.azurewebsites.net/).
+- 🏫 I'm currently studying **"Banco de Dados"** at [Fatec](http://fatecsjc-prd.azurewebsites.net/).
 - 🌱 I’m currently learning **Java** & **Relational Databases**.
 
 ##
