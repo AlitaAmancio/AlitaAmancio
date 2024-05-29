@@ -1,0 +1,15 @@
+@import './base.scss';
+
+body {
+	background-image: url('@/assets/imgs/background.svg');
+	display: flex;
+	place-items: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#app {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	padding: 0 2rem;
+}
