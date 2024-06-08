@@ -63,7 +63,7 @@ span {
 	align-items: center;
 	max-width: 90%;
 	font-size: large;
-	animation: move 1s forwards;
+	animation: move 1.1s ease-in-out forwards;
 	transform: translateZ(20%);
 	text-shadow: 0 0.2em 0.3em rgba(0, 0, 0, 0.5);
 	letter-spacing: -0.1em;
@@ -72,15 +72,19 @@ span {
 
 @keyframes move {
 	0% {
-		transform: translateY(-1em) translateZ(2em);
+		transform: scale(0.8) translateY(-1em) translateZ(2em);
 		opacity: 0;
 	}
 	50% {
 		transform: scale(1.1) translateZ(2em);
+		opacity: 0.5;
+	}
+	75% {
+		transform: scale(1) translateY(1%) translateZ(2em);
 		opacity: 1;
 	}
 	100% {
-		transform: translateY(1%) translateZ(2em);
+		transform: scale(1) translateY(1%) translateZ(2em);
 		opacity: 1;
 	}
 }

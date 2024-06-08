@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import JokeFooter from '@/components/JokeFooter.vue'
 import TamagochiStructure from '@/components/TamagochiStructure.vue'
 </script>
 
@@ -10,8 +11,8 @@ import TamagochiStructure from '@/components/TamagochiStructure.vue'
 				<br />
 				<span> AMANCIO </span>
 			</h1>
-
 			<TamagochiStructure></TamagochiStructure>
+			<JokeFooter />
 		</div>
 	</div>
 </template>

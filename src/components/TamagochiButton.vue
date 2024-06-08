@@ -29,16 +29,17 @@ const computedClass = computed(() => {
 	cursor: pointer;
 	font-size: 1em;
 	border-radius: 50%;
+	position: relative;
 	transition:
-		background-color 0.4s,
-		background-image 0.4s;
+		background-color 0.6s,
+		background-image 0.6s;
 
 	&.btn-feeling-lucky {
 		background-color: #ba7165;
 
 		&:hover {
 			background-color: #ffe078;
-			animation: bounce-in 0.4s forwards;
+			animation: bounce-in 0.6s forwards;
 		}
 	}
 
@@ -47,7 +48,7 @@ const computedClass = computed(() => {
 
 		&:hover {
 			background-color: #ffe078;
-			animation: bounce-in 0.4s forwards;
+			animation: bounce-in 0.6s forwards;
 		}
 	}
 
@@ -56,16 +57,16 @@ const computedClass = computed(() => {
 
 		&:hover {
 			background-color: #ffe078;
-			animation: bounce-in 0.4s forwards;
+			animation: bounce-in 0.6s forwards;
 		}
 	}
 
 	@keyframes bounce-in {
 		0% {
-			transform: scale(0.7);
+			transform: scale(1.1);
 		}
 		50% {
-			transform: scale(1.2);
+			transform: scale(0.9);
 		}
 		100% {
 			transform: scale(1.1);
